@@ -1,0 +1,4 @@
+2 5 5 < input/dat038
+6 10 5 < input/inp.13
+5 8 7 < input/inp.6
+0 7 0 < input/adt.163

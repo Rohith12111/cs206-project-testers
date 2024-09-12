@@ -1,0 +1,7 @@
+3 4 3 < input/adt.179
+3 0 0 < input/tc.154
+9 7 9 < input/inp.38
+0 0 0 < input/dat555
+7 2 5 < input/ft.5
+7 1 9 < input/inp.hf.1
+9  2 < input/ft.21
